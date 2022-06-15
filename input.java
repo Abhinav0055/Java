@@ -8,7 +8,7 @@ public class input {
         int b = sc.nextInt();
         int sum = a+b;
         System.out.println(sum);
-        sc.close();
+        sc.close(); 
 
 
     }
