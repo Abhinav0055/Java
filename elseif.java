@@ -13,7 +13,8 @@ public class elseif {
         }
         else{
             System.out.println("a is lesser");
-        }   
+        }
+        sc.close();
         
     }
 }
